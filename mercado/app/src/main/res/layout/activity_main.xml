@@ -16,16 +16,16 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="30sp"
-        android:text="NAME:"
+        android:text="NAME:Richmond Mercado"
         android:textStyle="bold"
-        android:textSize="20dp"
+        android:textSize="15dp"
         android:layout_marginLeft="210dp"/>
 
     <TextView
         android:layout_width="198dp"
         android:layout_height="24dp"
-        android:text="ADDRESS:"
-        android:textSize="20sp"
+        android:text="ADDRESS:Carmen West"
+        android:textSize="10sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="210dp"
         tools:layout_editor_absoluteY="44dp" />
