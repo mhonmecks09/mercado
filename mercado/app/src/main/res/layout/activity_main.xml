@@ -34,14 +34,24 @@
         android:layout_width="150dp"
         android:layout_height="70dp"
         android:background="@color/blue"
+        android:text="PROFILE"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="240dp" />
+
     <Button
         android:layout_width="150dp"
         android:layout_height="70dp"
         android:background="@color/blue"
+        android:text="SETTING"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="240dp" />
+        tools:layout_editor_absoluteY="330dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="richmond mercado"
+        tools:layout_editor_absoluteX="232dp"
+        tools:layout_editor_absoluteY="291dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
